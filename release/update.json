@@ -6,6 +6,6 @@
 	"plugin": {
 		"version": "1.0",
 		"name": "KMODsLoader",
-		"url": "https://github.com/kp7742/PluginLoader/raw/main/release/app-debug.apk"
+		"url": "https://github.com/kp7742/PluginLoader/blob/main/release/app-debug.apk?raw=true"
 	}
 }
