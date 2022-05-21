@@ -16,7 +16,7 @@ PluginLoader is a tiny system to dynamically load apk in Android. I used it in m
 - Use Android Studio to build it.
 
 ## Demo
-- Download [Stub App](https://github.com/kp7742/PluginLoader/raw/master/release/stub.apk) and install it.
+- Download [Stub App](https://github.com/kp7742/PluginLoader/blob/main/release/stub-debug.apk?raw=true) and install it.
 - In first start, it will download and store plugin apk.
 - After that it will automatically load and start plugin app.
 
